@@ -9,6 +9,9 @@ package com.kadet.numberTransformer;
 public class Main {
 
     public static void main (String[] args) {
+
+        AppBundle bundle = new AppBundle();
+
     }
 
 }

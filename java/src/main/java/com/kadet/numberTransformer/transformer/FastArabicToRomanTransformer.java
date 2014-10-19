@@ -3,7 +3,7 @@ package com.kadet.numberTransformer.transformer;
 /**
  * Date: 19.10.14
  * Time: 15:19
- * <p/>
+ *
  * A FastArabicToRomanTransformer transforms arabic numbers to roman figures
  *
  * @author Kadet

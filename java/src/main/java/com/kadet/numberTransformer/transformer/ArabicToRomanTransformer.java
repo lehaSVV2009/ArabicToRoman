@@ -6,7 +6,7 @@ import com.kadet.numberTransformer.util.Strings;
  * Date: 19.10.14
  * Time: 16:33
  *
- * @author Кадет
+ * @author Kadet
  */
 public abstract class ArabicToRomanTransformer implements Transformer<String, Integer> {
 

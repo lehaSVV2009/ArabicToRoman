@@ -72,6 +72,9 @@ public class FlexibleArabicToRomanTransformer extends ArabicToRomanTransformer {
     }
 
 
+    /**
+     *  Validation was overridden cause in this case arabic numbers can be more than 3999
+     */
     @Override
     protected void validateArabic (int arabic) {
         if (arabic < 1) {
