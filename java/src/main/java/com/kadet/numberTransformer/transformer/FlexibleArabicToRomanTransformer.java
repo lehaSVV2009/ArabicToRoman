@@ -45,8 +45,8 @@ public class FlexibleArabicToRomanTransformer extends ArabicToRomanTransformer {
      * Transform from integer arabic number to roman symbols
      * Arabic numbers must be more than 1
      *
-     * @param arabic integer number
-     * @return roman string
+     * @param arabic    integer number
+     * @return roman    string
      */
     @Override
     public String transform (Integer arabic) {

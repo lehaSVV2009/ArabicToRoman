@@ -11,7 +11,7 @@ package com.kadet.numberTransformer.transformer;
 public class FastArabicToRomanTransformer extends ArabicToRomanTransformer {
 
     /**
-     * Order is necessary
+     * Order is important
      */
     private static int[] NUMBERS = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
     private static String[] ROMAN_SYMBOLS = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
@@ -20,8 +20,8 @@ public class FastArabicToRomanTransformer extends ArabicToRomanTransformer {
      * Transform from integer arabic number to roman symbols
      * Arabic numbers must be in the range of 1 to 3999
      *
-     * @param arabic integer number
-     * @return roman string
+     * @param arabic    integer number
+     * @return          roman string
      */
     @Override
     public String transform (Integer arabic) {
