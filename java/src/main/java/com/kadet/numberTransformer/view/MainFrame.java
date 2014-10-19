@@ -12,6 +12,8 @@ import java.awt.event.KeyEvent;
  * Date: 19.10.14
  * Time: 21:01
  *
+ *  Main view component
+ *
  * @author Kadet
  */
 public class MainFrame extends JFrame {
@@ -66,7 +68,6 @@ public class MainFrame extends JFrame {
         romanTextField.setEditable(false);
     }
 
-
     private void addComponents () {
         add(arabicLabel);
         add(arabicTextField);
@@ -75,7 +76,6 @@ public class MainFrame extends JFrame {
         add(exceptionsLabel);
         add(exceptionText);
     }
-
 
     public void showException (String message) {
         romanTextField.setText("");

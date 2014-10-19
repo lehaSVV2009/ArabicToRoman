@@ -14,22 +14,28 @@ import com.kadet.numberTransformer.view.MainFrame;
  */
 public class AppBundle {
 
+    /**
+     * Init Application
+     */
     public AppBundle () {
 
-        ArabicToRomanController controller = new ArabicToRomanController();
-
+        // init services
         ArabicToRomanService toRomanService = new ArabicToRomanServiceImpl();
-
         FastArabicToRomanTransformer transformer = new FastArabicToRomanTransformer();
-
-        MainFrame mainFrame = new MainFrame();
-
         toRomanService.setTransformer(transformer);
 
+        // init views
+        MainFrame mainFrame = new MainFrame();
+
+        // init controllers
+        ArabicToRomanController controller = new ArabicToRomanController();
         controller.setToRomanService(toRomanService);
         controller.setMainFrame(mainFrame);
 
+        // adjust view
         mainFrame.setController(controller);
+
+        // show view
         mainFrame.setVisible(true);
 
     }

@@ -12,7 +12,7 @@ public abstract class ArabicToRomanTransformer implements Transformer<String, In
 
     protected void validateArabic (int arabic) {
         if (arabic < 1 || arabic > 3999) {
-            throw new IllegalArgumentException(arabic + Strings.NOT_VALID_NUMBER_EXCEPTION);
+            throw new IllegalArgumentException(arabic + Strings.NOT_VALID_NUMBER_EXCEPTION + Strings.MUST_BE_FROM_ONE_TO_FOUR_THOUSANDS);
         }
     }
 

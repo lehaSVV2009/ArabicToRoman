@@ -7,6 +7,8 @@ import com.kadet.numberTransformer.view.MainFrame;
  * Date: 19.10.14
  * Time: 21:34
  *
+ *  ArabicToRomanController binds view and services, listen to view callings
+ *
  * @author Kadet
  */
 public class ArabicToRomanController {

@@ -78,7 +78,7 @@ public class FlexibleArabicToRomanTransformer extends ArabicToRomanTransformer {
     @Override
     protected void validateArabic (int arabic) {
         if (arabic < 1) {
-            throw new IllegalArgumentException(arabic + Strings.NOT_VALID_NUMBER_EXCEPTION);
+            throw new IllegalArgumentException(arabic + Strings.NOT_VALID_NUMBER_EXCEPTION + Strings.MUST_BE_FROM_ONE);
         }
     }
 }

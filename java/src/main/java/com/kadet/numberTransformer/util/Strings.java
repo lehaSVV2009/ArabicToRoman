@@ -11,7 +11,9 @@ public final class Strings {
     /**
      * Exceptions
      */
-    public static final String NOT_VALID_NUMBER_EXCEPTION = " is not a valid number! It must be in the range of 1 to 3999!";
+    public static final String NOT_VALID_NUMBER_EXCEPTION = " is not a valid number! ";
+    public static final String MUST_BE_FROM_ONE_TO_FOUR_THOUSANDS = "It must be in the range of 1 to 3999!";
+    public static final String MUST_BE_FROM_ONE = "It must be more than 1!";
     public static final String NOT_NUMBER_EXCEPTION = " is not a number!";
 
     /**

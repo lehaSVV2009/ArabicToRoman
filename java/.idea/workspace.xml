@@ -7,15 +7,16 @@
     <file path="/arabicToRomanConverter.js" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413735984779" ignored="false" />
     <file path="/index.html" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413738531490" ignored="false" />
     <file path="/FastArabicToRomanTransformer.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413735295770" ignored="false" />
-    <file path="/MainFrame.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413745683322" ignored="false" />
-    <file path="/Strings.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413744109973" ignored="false" />
+    <file path="/MainFrame.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413749890624" ignored="false" />
+    <file path="/Strings.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413750422883" ignored="false" />
     <file path="/Main.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413742868807" ignored="false" />
-    <file path="/AppBundle.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413745943334" ignored="false" />
+    <file path="/AppBundle.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413749766753" ignored="false" />
     <file path="/OnStateChangeAction.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413743021078" ignored="false" />
     <file path="/ArabicToRomanService.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413744798391" ignored="false" />
-    <file path="/ArabicToRomanServiceImpl.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413744885267" ignored="false" />
-    <file path="/ArabicToRomanController.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413744933212" ignored="false" />
-    <file path="/FlexibleArabicToRomanTransformer.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413746249832" ignored="false" />
+    <file path="/ArabicToRomanServiceImpl.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413750057761" ignored="false" />
+    <file path="/ArabicToRomanController.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413750199942" ignored="false" />
+    <file path="/FlexibleArabicToRomanTransformer.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413750540164" ignored="false" />
+    <file path="/ArabicToRomanTransformer.java" changelist="4a50a2fa-a3d4-446e-96da-d9fe176a2154" time="1413750526688" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,29 +75,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Strings.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/util/Strings.java">
+      <file leaf-file-name="ArabicToRomanTestSuite.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/kadet/numberTransformer/transformer/ArabicToRomanTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="693" selection-end="693" vertical-scroll-proportion="0.7892562">
+            <state line="18" column="0" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FastArabicToRomanTransformer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/FastArabicToRomanTransformer.java">
+      <file leaf-file-name="ArabicToRomanTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/kadet/numberTransformer/transformer/ArabicToRomanTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0">
+            <state line="11" column="13" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArabicToRomanTransformer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/ArabicToRomanTransformer.java">
+      <file leaf-file-name="FastArabicToRomanTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/kadet/numberTransformer/transformer/FastArabicToRomanTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="16" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+            <state line="11" column="13" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlexibleArabicToRomanTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/kadet/numberTransformer/transformer/FlexibleArabicToRomanTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,7 +116,27 @@
       <file leaf-file-name="ArabicToRomanServiceImpl.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/service/ArabicToRomanServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="24" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0">
+            <state line="10" column="13" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArabicToRomanController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/controller/ArabicToRomanController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="13" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlexibleArabicToRomanTransformer.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/FlexibleArabicToRomanTransformer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="21" selection-start="552" selection-end="552" vertical-scroll-proportion="0.47727272">
               <folding />
             </state>
           </provider>
@@ -119,51 +151,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FlexibleArabicToRomanTransformer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/FlexibleArabicToRomanTransformer.java">
+      <file leaf-file-name="Strings.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/util/Strings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="16" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+            <state line="13" column="42" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Transformer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/Transformer.java">
+      <file leaf-file-name="ArabicToRomanTransformer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/ArabicToRomanTransformer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="15" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
+            <state line="14" column="35" selection-start="378" selection-end="409" vertical-scroll-proportion="0.0">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FlexibleArabicToRomanTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/kadet/numberTransformer/transformer/FlexibleArabicToRomanTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="11" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArabicToRomanController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/controller/ArabicToRomanController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="637" selection-end="637" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainFrame.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/view/MainFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="16" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -185,15 +186,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/services/ArabicToRomanService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/services/ArabicToRomanServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/service/ArabicToRomanService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/FastArabicToRomanTransformer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/AppBundle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/view/MainFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/ArabicToRomanTransformer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/service/ArabicToRomanServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/service/ArabicToRomanService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/controller/ArabicToRomanController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/FastArabicToRomanTransformer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/FlexibleArabicToRomanTransformer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/util/Strings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/ArabicToRomanTransformer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/FlexibleArabicToRomanTransformer.java" />
       </list>
     </option>
   </component>
@@ -291,18 +292,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="transformer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -327,36 +316,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="numberTransformer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="numberTransformer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="numberTransformer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -656,18 +615,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.497426" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26147428" sideWeight="0.4980695" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26147428" sideWeight="0.5006435" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -678,10 +638,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21879022" sideWeight="0.73852575" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26147428" sideWeight="0.497426" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26147428" sideWeight="0.494852" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
     </layout>
@@ -753,25 +712,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/Transformer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="11" selection-start="89" selection-end="94" vertical-scroll-proportion="0.0">
+        <state line="11" column="28" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/AppBundle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/FastArabicToRomanTransformer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+        <state line="24" column="7" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/view/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="30" selection-start="2607" selection-end="2607" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/kadet/numberTransformer/transformer/ArabicToRomanTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/AppBundle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
+        <state line="37" column="20" selection-start="1131" selection-end="1131" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -779,6 +754,13 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/kadet/numberTransformer/transformer/ArabicToRomanTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="0" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kadet/numberTransformer/transformer/ArabicToRomanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -792,51 +774,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/kadet/numberTransformer/transformer/FlexibleArabicToRomanTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="11" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/view/MainFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="16" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/FastArabicToRomanTransformer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/ArabicToRomanTransformer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="16" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/FlexibleArabicToRomanTransformer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="16" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/Transformer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="15" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/controller/ArabicToRomanController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="637" selection-end="637" vertical-scroll-proportion="0.0">
+        <state line="4" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -845,8 +783,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/service/ArabicToRomanServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="24" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0">
+        <state line="10" column="13" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/controller/ArabicToRomanController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -859,7 +806,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/util/Strings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="693" selection-end="693" vertical-scroll-proportion="0.7892562">
+        <state line="13" column="42" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/ArabicToRomanTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="35" selection-start="378" selection-end="409" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kadet/numberTransformer/transformer/FlexibleArabicToRomanTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="21" selection-start="552" selection-end="552" vertical-scroll-proportion="0.47727272">
           <folding />
         </state>
       </provider>
